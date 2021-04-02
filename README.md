@@ -3,11 +3,11 @@
 ## I'm Zhongjinhui!🤪
 
 ```json
-const zhongjinhui = {
-  coding: ["Java","Javascript"],
-  framework: ["SpringBoot","SpringCloud","Vue"],
-  architecture: ["microservices"],
-  communities: ["soul contributor"]
+{
+  "coding": ["Java","Javascript"],
+  "framework": ["SpringBoot","SpringCloud","Vue"],
+  "architecture": ["microservices"],
+  "communities": ["soul contributor"]
 }
 ```
 
