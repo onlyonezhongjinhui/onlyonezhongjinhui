@@ -11,4 +11,4 @@
 }
 ```
 
-## Blog site:[https://onlyonezhongjinhui.github.io/blog/](https://)
+## Blog:[https://onlyonezhongjinhui.github.io](https://)
